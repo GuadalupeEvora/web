@@ -480,3 +480,10 @@ ul li {
 .activity--white {
     background-color: #fff;
 }
+
+.footer {
+    background-color: #333; /* Color de fondo del pie de página */
+    color: #fff; /* Color del texto del pie de página */
+    text-align: center; /* Alinear el texto al centro */
+    padding: 20px 0; /* Espaciado interior superior e inferior */
+}
